@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Peak Hour Reminders**: Receive notifications during peak hours to plan your commute effectively.
 - **Smart Parking Redirection**: Automatically navigate to GOP 5 if GOP 9 is unavailable.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Frameworks & Technologies
+## Frameworks & Technologies
 
 - **SwiftUI**: For building a responsive and declarative UI.
 - **MapKit**: To display maps and provide navigation functionalities.
@@ -24,7 +24,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 9to5Project/
