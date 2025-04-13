@@ -9,10 +9,10 @@
 
 ## ✨ Features
 
-- 🔔 **Peak Hour Reminders**: Receive notifications during peak hours to plan your commute effectively.
-- 🅿️ **Smart Parking Redirection**: Automatically navigate to GOP 5 if GOP 9 is unavailable.
-- 🗺️ **MapKit Integration**: View real-time directions and parking locations using Apple Maps.
-- 🌙 **Dark Mode Support**: Enjoy a user-friendly interface in both light and dark modes.
+- **Peak Hour Reminders**: Receive notifications during peak hours to plan your commute effectively.
+- **Smart Parking Redirection**: Automatically navigate to GOP 5 if GOP 9 is unavailable.
+- **MapKit Integration**: View real-time directions and parking locations using Apple Maps.
+- **Dark Mode Support**: Enjoy a user-friendly interface in both light and dark modes.
 
 ---
 
