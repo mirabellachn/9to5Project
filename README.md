@@ -2,7 +2,6 @@
 
 **9to5** is a SwiftUI-based application designed to assist users during peak traffic hours (9 AM – 6 PM) by providing timely reminders and intelligent parking solutions. If the primary parking location (GOP 9) is full, the app seamlessly redirects users to an alternative parking spot (GOP 5) using real-time navigation.
 
-![Design Preview]
 <img width="634" alt="Screenshot 2025-04-13 at 23 55 51" src="https://github.com/user-attachments/assets/25671a84-84b2-4480-9a21-730e1ca4ae9b" />
 
 ---
