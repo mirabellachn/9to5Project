@@ -45,3 +45,12 @@
 │   └── SplashScreen.swift
 ├── README.md
 └── LICENSE
+
+## 🧑‍💻 Team & Roles
+
+| Name                                                   | Roles                   |
+|--------------------------------------------------------|-------------------------|
+| [@mirabellachn](https://github.com/mirabellachn)       | Product, Design, Tech   |
+| [@revanzanrndra] (https://github.com/revanzanrndra))   | Tech                    |
+| [@kurak57](https://github.com/kurak57))                | Tech                    |
+
