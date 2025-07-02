@@ -23,29 +23,6 @@
 
 ---
 
-## Project Structure
-
-```plaintext
-9to5Project/
-├── 9to5App/
-├── PreviewContent/
-│   │   └── PreviewAssets
-│   ├── _to5AppApp.swift
-│   ├── 9to5App.entitlements
-│   ├── AppStartView.swift
-│   ├── Assets.xcassets
-│   ├── DescriptionView.swift
-│   ├── MainPageView.swift
-│   ├── MapView.swift
-│   ├── NameView.swift
-│   ├── NavigationSheet.swift
-│   ├── NavigatorManager.swift
-│   ├── NotificationContent.swift
-│   ├── PeakTimeClock.swift
-│   └── SplashScreen.swift
-├── README.md
-└── LICENSE
-
 ## 🧑‍💻 Team & Roles
 
 | Name                                                   | Roles                   |
